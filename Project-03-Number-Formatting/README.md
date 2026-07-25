@@ -24,10 +24,6 @@ This project demonstrates fundamental Excel number formatting techniques used to
 - Used the `ROUND` function to change actual values rather than only their appearance.
 - Used absolute references to keep formulas consistent when copied.
 
-## Files
-
-- `Number Formatting.xlsx` – Excel workbook containing formatting exercises and calculations.
-
 ## Excel Functions Used
 
 - `SUM`
