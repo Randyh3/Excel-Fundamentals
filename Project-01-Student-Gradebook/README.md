@@ -1,52 +1,45 @@
-# Student Gradebook
+# Project 01 - Student Gradebook
 
 ## Overview
 
-This project is an Excel-based student gradebook that automatically calculates student performance using formulas.
+This project demonstrates fundamental Excel spreadsheet skills by creating an automated student gradebook that calculates student performance using formulas, lookup tables, and organized data structures.
 
-I created this project after learning some Excel fundamentals and rebuilt it from my understanding of the concepts.
+The project was created after learning Excel fundamentals and rebuilt based on my understanding of spreadsheet design, formulas, and data analysis concepts.
 
-## Skills Used
-## Formulas & Functions
-- SUM()
-- AVERAGE()
-- Percentage calculations
-- Lookup table (XLOOKUP)
-- Spreadsheet formatting
-- Data organization
-- Relative cell references
-- Absolute cell references
+## Skills Demonstrated
 
-## Data Analysis
-- Grade calculations
-- GPA conversion using a lookup table
-- Class average calculations
-- Summary statistics
-- Working with numerical datasets
-
-## Spreadsheet Design
-- Organized tabular layout
-- Header formatting
-- Cell formatting
-- Borders
-- Color coding
-- Number formatting
-- Percentage formatting
-- Alignment and readability improvements
-
-## Excel Fundamentals
-- Working with datasets
-- Building reusable formulas
-- Referencing ranges
-- Structuring data for analysis
-- Creating a clean reporting layout
-
-## Features
-- Calculates total score
-- Calculates percentage grade
-- Converts percentage to GPA
-- Calculates class averages
-- Organized and formatted gradebook
+    Spreadsheet Design
+    Data Organization
+    Formula Building
+    Relative Cell References
+    Absolute Cell References
+    Lookup Tables
+    Data Formatting
+    Basic Data Analysis
 
 ## What I Learned
-This project helped reinforce my understanding of Excel formulas, spreadsheet organization, and building automated calculations.
+
+    Applied SUM and AVERAGE functions to calculate student scores and class performance.
+    Used percentage calculations to determine overall grades.
+    Created lookup tables using XLOOKUP to convert percentage grades into GPA values.
+    Organized datasets into a structured and readable spreadsheet format.
+    Applied relative and absolute cell references to build reusable formulas.
+    Improved spreadsheet presentation through formatting, alignment, and number formatting.
+
+## Excel Functions Used
+
+    SUM
+    AVERAGE
+    XLOOKUP
+
+## Features
+
+    Calculates total student scores.
+    Calculates percentage grades.
+    Converts percentage grades into GPA values using a lookup table.
+    Calculates class averages and summary statistics.
+    Organizes student data into a clean reporting layout.
+
+## Why This Project Matters
+
+Building structured and automated spreadsheets is a fundamental skill in finance, accounting, and business analytics. This project strengthened my understanding of Excel formulas, data organization, and creating reporting tools that transform raw data into meaningful insights.
