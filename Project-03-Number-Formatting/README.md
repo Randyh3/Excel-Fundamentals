@@ -30,5 +30,5 @@ This project demonstrates fundamental Excel number formatting techniques used to
 
 ## Why This Project Matters
 
-    Presenting financial and business data clearly is just as important as performing calculations. This project strengthened my understanding of how Excel formatting affects data presentation while reinforcing core         
-    spreadsheet skills that are commonly used in finance, accounting, and business analysis.
+Presenting financial and business data clearly is just as important as performing calculations. This project strengthened my understanding of how Excel formatting affects data presentation while reinforcing core         
+spreadsheet skills that are commonly used in finance, accounting, and business analysis.
